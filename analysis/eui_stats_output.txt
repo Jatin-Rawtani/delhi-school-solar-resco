@@ -1,0 +1,7 @@
+== ALL Education: n=617, with electricity meter=604
+   EUI kWh/m2/yr n=60: min 35 | p25 102 | median 167 | p75 333 | max 688 | mean 221
+   floor area m2: median 6989 | p25 3235 | p75 12131
+   sites: {'Panther': 35, 'Robin': 22, 'Fox': 63, 'Rat': 111, 'Bear': 67, 'Lamb': 83, 'Peacock': 17, 'Moose': 15, 'Bull': 63, 'Bobcat': 18, 'Crow': 5, 'Wolf': 20, 'Hog': 26, 'Eagle': 26, 'Cockatoo': 46}
+== K-12/school only: n=194, with electricity meter=194
+   floor area m2: median 5779 | p25 2572 | p75 8866
+   sites: {'Fox': 2, 'Rat': 109, 'Lamb': 82, 'Wolf': 1}

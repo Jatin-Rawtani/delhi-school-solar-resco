@@ -1,0 +1,5 @@
+school keeps export=True: floor (RESCO break-even) = Rs 5.06/kWh, ceiling (school break-even) = Rs 12.38/kWh, band width = 7.32, min DSCR at floor = 1.00
+school keeps export=False: floor (RESCO break-even) = Rs 4.98/kWh, ceiling (school break-even) = Rs 12.33/kWh, band width = 7.35, min DSCR at floor = 0.99
+small school (25 MWh/yr), school keeps export: floor 5.06, ceiling 8.06, width 3.00
+L=70 MWh: floor = 6.00 (equity 5.06, DSCR 1.2 6.00), ceiling = 12.38, width = 6.38
+L=25 MWh: floor = 6.00 (equity 5.06, DSCR 1.2 6.00), ceiling = 8.06, width = 2.05

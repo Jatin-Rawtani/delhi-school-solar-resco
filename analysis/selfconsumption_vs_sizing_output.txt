@@ -1,0 +1,18 @@
+== Lamb  [Cardiff UK (no AC, load collapses in vacation)]  n=78 schools
+   PV annual gen as %% of annual load  ->  self-consumption share of generation
+      10%  ->  median  76.0%   (p25 63.9%, p75 85.1%)
+      20%  ->  median  73.6%   (p25 60.7%, p75 81.3%)
+      30%  ->  median  68.5%   (p25 57.5%, p75 74.2%)
+      50%  ->  median  60.6%   (p25 52.1%, p75 65.1%)
+      75%  ->  median  53.3%   (p25 46.4%, p75 57.5%)
+     100%  ->  median  47.3%   (p25 41.6%, p75 50.6%)
+
+== Rat  [Washington DC (AC runs through summer)]  n=85 schools
+   PV annual gen as %% of annual load  ->  self-consumption share of generation
+      10%  ->  median 100.0%   (p25 99.4%, p75 100.0%)
+      20%  ->  median  98.0%   (p25 96.1%, p75 98.9%)
+      30%  ->  median  92.7%   (p25 90.1%, p75 94.0%)
+      50%  ->  median  76.9%   (p25 74.0%, p75 78.4%)
+      75%  ->  median  59.2%   (p25 56.8%, p75 61.5%)
+     100%  ->  median  47.0%   (p25 45.0%, p75 49.2%)
+
